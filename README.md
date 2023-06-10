@@ -1,6 +1,8 @@
 # Otodom-Webscraping
 
-Welcome to the Otodom Web Scraper project! This project is a simple and efficient web scraping tool built in Python, intended to collect and analyze real estate data from the Polish website Otodom.
+Welcome to the Otodom Web Scraper project! 
+
+This project is a simple and efficient web scraping tool built in Python, intended to collect and analyze real estate data from the Polish website Otodom.
 
 # Project Overview
 
